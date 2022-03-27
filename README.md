@@ -1,0 +1,18 @@
+## 
+- Manufacturer: 
+- Platform: bengal
+- Codename: 
+- Brand: 
+- Flavor: 
+- Release Version: 
+- Id: 
+- Incremental: 
+- Tags: 
+- CPU Abilist: 
+- A/B Device: true
+- Locale: undefined
+- Screen Density: undefined
+- Fingerprint: 
+- OTA version: 
+- Branch: 
+- Repo: __dump
